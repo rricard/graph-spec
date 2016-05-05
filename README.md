@@ -24,7 +24,7 @@ In order to do some classic assertions (using mocha), you can use the default
 asserter:
 
 ```javascript
-import { queryAssert } from "../src"
+import { queryAssert } from "graph-spec"
 import mySchema from "./schema"
 
 it("should say hello world", () =>
@@ -56,7 +56,7 @@ Note that you can pass in the options any of the following GraphQL-js options:
 For ease of use, you can create your own asserter, able to carry preset options:
 
 ```javascript
-import { createQueryAsserter } from "../src"
+import { createQueryAsserter } from "graph-spec"
 import mySchema from "./schema"
 
 const queryAssert = createQueryAsserter(mySchema, {
