@@ -2,7 +2,7 @@
 
 GraphQL assertion and testing made easy
 
-[![Build Status](https://travis-ci.org/rricard/graph-spec.svg?branch=master)](https://travis-ci.org/rricard/graph-spec) [![Code Climate](https://codeclimate.com/repos/572b9718ee6f41008b000c4c/badges/785614f6bde8c4d9dc30/gpa.svg)](https://codeclimate.com/repos/572b9718ee6f41008b000c4c/feed) [![Test Coverage](https://codeclimate.com/repos/572b9718ee6f41008b000c4c/badges/785614f6bde8c4d9dc30/coverage.svg)](https://codeclimate.com/repos/572b9718ee6f41008b000c4c/coverage) [![Issue Count](https://codeclimate.com/repos/572b9718ee6f41008b000c4c/badges/785614f6bde8c4d9dc30/issue_count.svg)](https://codeclimate.com/repos/572b9718ee6f41008b000c4c/feed)
+[![Build Status](https://travis-ci.org/rricard/graph-spec.svg?branch=master)](https://travis-ci.org/rricard/graph-spec) [![Code Climate](https://codeclimate.com/github/rricard/graph-spec/badges/gpa.svg)](https://codeclimate.com/github/rricard/graph-spec) [![Issue Count](https://codeclimate.com/github/rricard/graph-spec/badges/issue_count.svg)](https://codeclimate.com/github/rricard/graph-spec)
 
 ---
 
