@@ -6,6 +6,3 @@ node_js:
 script:
   - npm test
   - npm run typecheck
-addons:
-  code_climate:
-    repo_token: 2fd179f60745c90117aede240974f8d63c085b39e4af6a4364e70a1f9d0ee029
